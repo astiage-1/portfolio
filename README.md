@@ -1,0 +1,1 @@
+I am sharing examples of engineering artifacts (architecture diagrams, code snippets, or design documents) that I have created for my past three professional experiences (It does not contain any proprietary information).
