@@ -4,6 +4,7 @@ The content is intentionally non-proprietary and focuses on architectural thinki
 The objective is to demonstrate how I approach end-to-end solution architecture, from scope definition and architectural views to detailed design and implementation patterns.
 
 Repository Contents
+
 1️⃣ Solution and Cloud Architecture Scope and Structure
   - Definition of architectural scope and boundaries
   - High-level conceptual, logical, and physical views
