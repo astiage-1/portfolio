@@ -15,7 +15,13 @@ Repository Contents
   - Architecture and design descriptions derived from real professional contexts
   - System decomposition, component interactions, and integration patterns
   - Design rationales, constraints, and trade-offs
-  - Focus on scalability, resiliency, security, and maintainability
+  - Focus on performance, scalability, resiliency, security, and maintainability
+  - End-to-end system architecture for analytics and ML pipelines
+  - Data ingestion and transformation pipelines (ETL)
+  - Curated and validated data flows across /staging, /raw, /validated, and /curated zones
+  - Feature engineering and feature store integration feeding machine learning and NLP pipelines
+  - Star-schema dimension tables representing master, reference, and location/product data for analytics
+  - Metadata management and gold-layer architecture supporting governance, lineage, and compliance
 
 3️⃣ Building REST APIs with Spring Boot (Code Snippets)
   - Practical implementation examples supporting architectural decisions
