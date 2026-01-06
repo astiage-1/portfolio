@@ -7,11 +7,7 @@ Repository Contents
 
 1️⃣ Solution and Cloud Architecture Scope and Structure
   - Definition of architectural scope and boundaries
-  - Description of high-level architectural views:
-        Conceptual – business specifications
-        Executive – business-aligned system overview
-        Logical – functional specifications and system interactions
-        Physical – deployment and infrastructure planning
+  - Description of high-level architectural views, including Conceptual (business specifications), Executive (business-aligned system overview), Logical (functional specifications and system interactions), and Physical (deployment and infrastructure planning).
   - Cloud and solution architecture structuring principles
   - Alignment between business requirements and technical architecture
 
