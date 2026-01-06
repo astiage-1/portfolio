@@ -27,6 +27,7 @@ Repository Contents
   - Practical implementation examples supporting architectural decisions
   - RESTful API design principles
   - Layered architecture, controller/service/repository separation
+  - 
 
 🎯 Intended Audience
 This repository is intended for:
