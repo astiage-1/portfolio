@@ -30,12 +30,14 @@ This repository is intended for:
   - Architecture-focused hiring managers and recruiters
 
 It is especially relevant for roles involving:
-  - Cloud and hybrid architectures (Azure / AWS)
-  - Distributed systems and microservices
-  - API-driven integration and enterprise systems
-  - Architecture governance and design documentation
-  - Data governance and MDM, data lake and data warehouse architectures, and star-schema–based data modeling across SQL and NoSQL technologies
-  - Architecture of machine learning and NLP pipelines exposed through scalable, microservice-oriented design
+- Cloud and hybrid architectures (Azure and AWS) – design and implementation of scalable, resilient, and cost-optimized cloud solutions.
+- Distributed systems and microservices architectures – end-to-end system decomposition, orchestration, and runtime integration.
+- API-driven integration patterns for enterprise systems – RESTful APIs, microservices communication, and enterprise service integration.
+- Architecture governance, standards, and design documentation – including conceptual, logical, and physical views aligned with best practices.
+- Data governance and Master Data Management (metadata, MDM) – ensuring data quality, consistency, and compliance across systems.
+- Data pipelines, ETL, and feature engineering – design of batch and streaming ETL pipelines (including Hydro dataset examples), feeding curated and validated data to  analytics and ML pipelines (covering /staging, /raw, /validated, and /curated zones).
+- Data lake and data warehouse architectures – star-schema modeling, SQL and NoSQL integration, and structured storage for analytics and reporting.
+- Architecture of machine learning and NLP pipelines – scalable, microservice-based architectures exposing models via APIs, integrating feature stores, batch/real-time inference, and orchestration.
 
 🔐 Important Note
   - All materials shared in this repository are:
