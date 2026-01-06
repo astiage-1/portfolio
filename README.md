@@ -34,8 +34,8 @@ It is especially relevant for roles involving:
 - Distributed systems and microservices architectures – end-to-end system decomposition, orchestration, and runtime integration.
 - API-driven integration patterns for enterprise systems – RESTful APIs, microservices communication, and enterprise service integration.
 - Architecture governance, standards, and design documentation – including conceptual, logical, and physical views aligned with best practices.
-- Data governance and Master Data Management (metadata, MDM) – ensuring data quality, consistency, and compliance across systems.
-- Data pipelines, ETL, and feature engineering – design of batch and streaming ETL pipelines (including Hydro dataset examples), feeding curated and validated data to  analytics and ML pipelines (covering /staging, /raw, /validated, and /curated zones).
+- Data governance and Master Data Management (including metadata design and gold-layer architecture) – ensuring data quality, consistency, and compliance across systems.
+- Data pipelines, ETL, and feature engineering – design of batch and streaming ETL pipelines, feeding curated and validated data to  analytics and ML pipelines (covering /staging, /raw, /validated, and /curated zones).
 - Data lake and data warehouse architectures – star-schema modeling, SQL and NoSQL integration, and structured storage for analytics and reporting.
 - Architecture of machine learning and NLP pipelines – scalable, microservice-based architectures exposing models via APIs, integrating feature stores, batch/real-time inference, and orchestration.
 
