@@ -7,7 +7,7 @@ Repository Contents
 
 1️⃣ Solution and Cloud Architecture Scope and Structure
   - Definition of architectural scope and boundaries
-  - High-level conceptual, logical, and physical views
+  - High-level Conceptual(business specifications), Executive(business aligned system overview), Logical(functional specifications & system interaction) & Physical   (deployment & infrastructure planning) Architectural Views
   - Cloud and solution architecture structuring principles
   - Alignment between business requirements and technical architecture
 
@@ -40,7 +40,7 @@ It is especially relevant for roles involving:
 - Cloud and hybrid architectures (Azure and AWS) – design and implementation of scalable, resilient, and cost-optimized cloud solutions.
 - Distributed systems and microservices architectures – end-to-end system decomposition, orchestration, and runtime integration.
 - API-driven integration patterns for enterprise systems – RESTful APIs, microservices communication, and enterprise service integration.
-- Architecture governance, standards, and design documentation – including conceptual, logical, and physical views aligned with best practices.
+- Architecture governance, standards, and design documentation – including conceptual, executive logical, and physical views aligned with best practices.
 - Data governance and Master Data Management (including master/reference data, metadata design, and gold-layer architecture) – ensuring data quality, consistency, and compliance across systems, from ingestion and curation in Delta Lake to structured star-schema dimension tables for analytics and ML pipelines.
 - Data pipelines, ETL, and feature engineering – design of batch and streaming ETL pipelines, feeding curated and validated data to analytics and ML pipelines, covering /staging, /raw, /validated, and /curated zones.
 - Data lake and data warehouse architectures – star-schema modeling, SQL and NoSQL integration, and structured storage for analytics, reporting, and ML feature consumption.
