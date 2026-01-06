@@ -51,3 +51,5 @@ It is especially relevant for roles involving:
   - Created by me
   - Free of proprietary, confidential, or client-specific information
   - Provided solely for demonstration of architectural approach and technical skills
+    
+  All artifacts in this repository are non-proprietary. They showcase my approach to solution and cloud architecture, data governance, ETL/data pipelines, and ML/NLP pipeline design, illustrating end-to-end architectural thinking from ingestion and curation to microservice deployment.
