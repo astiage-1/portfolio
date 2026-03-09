@@ -1,4 +1,4 @@
-Portfolio Overview
+**Portfolio Overview**
 
 This portfolio presents three complementary architecture and design artifacts derived from real professional contexts. It primarily focuses on scalable, secure, and governed solutions composed of microservices, data, analytics, and machine learning platforms, while also including complementary documentation on solution and cloud architecture scope & structure and illustrative REST API code snippets using Spring Boot.
 
